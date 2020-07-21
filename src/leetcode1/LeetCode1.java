@@ -1,4 +1,4 @@
-package LeetCode1;
+package leetcode1;
 
 /**
  * @author YangQi
