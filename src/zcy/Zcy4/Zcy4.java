@@ -27,7 +27,7 @@ public class Zcy4 {
                 int len = 0;
                 int n = i;
                 int m = j;
-                while (n < len1 && m < len2 && flag[n++][m++] == true){
+                while (n < len1 && m < len2 && flag[n++][m++]){
                     len++;
                 }
                 if (len > max){
